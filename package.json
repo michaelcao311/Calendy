@@ -1,0 +1,32 @@
+{
+  "name": "calendar",
+  "version": "1.0.0",
+  "description": "calendar app by migi cao",
+  "main": "index.js",
+  "scripts": {
+    "test": "console.log(':)')"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaelcao311/calendar.git"
+  },
+  "keywords": [
+    "calendar",
+    "productivity",
+    "alarms"
+  ],
+  "author": "michaelcao311",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michaelcao311/calendar/issues"
+  },
+  "homepage": "https://github.com/michaelcao311/calendar#readme",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "express": "^4.13.3",
+    "lodash": "^3.10.1",
+    "method-override": "^2.3.5",
+    "mongoose": "^4.1.11",
+    "node-restful": "^0.2.2"
+  }
+}
